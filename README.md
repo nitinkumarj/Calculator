@@ -1,5 +1,5 @@
 # Calculator
-Calculator App built using Windows Forms and C++/CLR.
+Calculator App built using Visual C++ CLR Windows Forms.
 
 ![image](https://github.com/nitinkumarj/Calculator/assets/155057392/0394a013-076d-44b5-bdb0-1704c70ac098)
 
